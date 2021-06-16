@@ -1,3 +1,7 @@
+#Testing, Testing#
+
+:bowtie: ### This is an ~~experiment~~ attempt to *play* with **markdown** :bowtie:
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/maxjdugan/fictional-happiness/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
